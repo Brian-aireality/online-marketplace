@@ -1,0 +1,13 @@
+#story {
+  display: none;
+}
+#thanks {
+  display: none;
+}
+body {
+  background: #b3cbcb;
+}
+img {
+  width: 50%;
+  height: auto;
+}
